@@ -6,7 +6,7 @@ First project of the odin project to practise basic HTML
 
 This project is a basic HTML project in which I will practise what I've learned so far in using all the concepts for a page about food recipes.
 
-# What have I learned so far
+# What have I learned so far?
 
 In this project I implemented the use of basic tags such as
 
