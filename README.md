@@ -18,6 +18,5 @@ In this project I implemented the use of basic tags such as
   <li>Links</li>
 </ul>
 
-I also provided some folder structure and practised commands from the terminal in order to practise
-
-In addition my project does not have CSS implemente into it so far but will in the future as I progress through the curriculum
+I also provided some folder structure and practised commands from the terminal in order to practise.
+In addition my project does not have CSS implemented into it so far but will in the future as I progress through the curriculum.
