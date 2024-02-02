@@ -11,6 +11,7 @@ body {
 .links-list {
   margin: 50px 100px;
 }
+
 .heading {
   text-align: center;
 }
@@ -24,23 +25,22 @@ body {
   color: #000000;
   text-decoration: none;
 }
+
 .link:hover {
   text-decoration: underline;
   color: #fff;
 }
 
-.description {
+.description,
+.subheading,
+.list {
   padding: 10px;
 }
 
 .subheading {
-  padding: 10px;
   text-decoration: underline;
 }
 
-.list {
-  padding: 10px;
-}
 .list-instructions {
   padding: 5px;
 }
