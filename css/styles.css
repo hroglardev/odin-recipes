@@ -40,9 +40,9 @@ body {
 
 .list {
   padding: 10px;
-  .list-instructions {
-    padding: 5px;
-  }
+}
+.list-instructions {
+  padding: 5px;
 }
 
 .note {
