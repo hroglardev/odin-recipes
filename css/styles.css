@@ -9,12 +9,10 @@ body {
   margin: 2rem 50px;
   background: linear-gradient(90deg, rgb(73, 70, 0) 0%, rgba(167, 125, 0, 1) 82%);
 }
-.links-list {
-  margin: 50px 100px;
-}
 
 .heading {
   text-align: center;
+  margin-bottom: 100px;
 }
 
 .list-element {
