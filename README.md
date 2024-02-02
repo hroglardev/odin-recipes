@@ -1,4 +1,4 @@
-# odin-recipes
+# Odin-recipes
 
 First project of the odin project to practise basic HTML
 
@@ -24,3 +24,7 @@ In addition my project does not have CSS implemented into it so far but will in 
 # Update CSS
 
 I have added some basic styling as I progress through the curriculum of CSS in order to practise basic units and some responsiveness.
+
+# Want to see it in action?
+
+<a href="https://hroglardev.github.io/odin-recipes/">Click here</a>
