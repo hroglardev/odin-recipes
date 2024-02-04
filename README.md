@@ -28,3 +28,14 @@ I have added some basic styling as I progress through the curriculum of CSS in o
 # Want to see it in action?
 
 <a href="https://hroglardev.github.io/odin-recipes/">Click here</a>
+
+# Want to track my progress?
+
+Checkout my other projects in order to see my evolution:
+
+<ol>
+  <li><a href="https://github.com/hroglardev/odin-recipes" target="_blank">You are here</a></li>
+  <li><a href="https://github.com/hroglardev/Odin-landing-page" target="_blank">Landing Page</a></li>
+  <li><a href="https://github.com/hroglardev/Rock-Paper-Scissors-TOP-Console" target="_blank">Console Rock, Paper, Scissors</a></li>
+  <li><a href="https://github.com/hroglardev/Rock-Paper-Scissors-TOP" target="_blank">Rock, Paper, Scissors</a></li>
+</ol>
