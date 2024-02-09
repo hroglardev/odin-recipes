@@ -27,7 +27,7 @@ I have added some basic styling as I progress through the curriculum of CSS in o
 
 # Want to see it in action?
 
-<a href="https://hroglardev.github.io/odin-recipes/">Click here</a>
+<a href="https://hroglardev.github.io/odin-recipes/" target="_blank">Click here</a>
 
 # Want to track my progress?
 
@@ -41,4 +41,6 @@ Checkout my other projects in order to see my evolution:
   <li><a href="https://github.com/hroglardev/Etch-a-Sketch" target="_blank">Etch a Sketch</a></li>
   <li><a href="https://github.com/hroglardev/Calculator" target="_blank">Calculator</a></li>
   <li><a href="https://github.com/hroglardev/Sign-up-form-TOP" target="_blank">Sign up form</a></li>
+  <li><a href="https://github.com/hroglardev/Dashboard" target="_blank">Dashboard</a></li>
+  <li><a href="https://github.com/hroglardev/Library" target="_blank">Library</a></li>
 </ol>
